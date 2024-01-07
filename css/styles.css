@@ -429,7 +429,7 @@ li > .link:focus {
   gap: 24px;
 }
 
-.suscribe-form-input {
+.subscribe-form-input {
   width: 264px;
   height: 40px;
   border: 1px solid var(--white);
@@ -443,7 +443,7 @@ li > .link:focus {
   color: var(--white);
 }
 
-::placeholder {
+.subscribe-form-input::placeholder {
   color: var(--white);
 }
 
